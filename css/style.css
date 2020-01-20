@@ -59,6 +59,8 @@ div, article, section, header, footer, nav, li {
 
 .scrollStuff {
 	font-size: 55px !important;
+	text-shadow: 1px 1px black;
+	
 }
 
 .techIcon {
@@ -269,6 +271,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-size: 48px;
 	margin-bottom:20px;
+	text-shadow: 2px 2px black;
 }
 h2 {
 	font-size: 30px;
